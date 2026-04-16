@@ -7,7 +7,7 @@
       "description": "",
       "precio_sin_itbis": 390.0,
       "price": 460.2,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -16,7 +16,7 @@
       "description": "",
       "precio_sin_itbis": 390.0,
       "price": 460.2,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -25,7 +25,7 @@
       "description": "",
       "precio_sin_itbis": 400.0,
       "price": 472.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -34,7 +34,7 @@
       "description": "",
       "precio_sin_itbis": 330.0,
       "price": 389.4,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -43,7 +43,7 @@
       "description": "",
       "precio_sin_itbis": 250.0,
       "price": 295.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -52,7 +52,7 @@
       "description": "",
       "precio_sin_itbis": 315.0,
       "price": 371.7,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -61,7 +61,7 @@
       "description": "",
       "precio_sin_itbis": 200.0,
       "price": 236.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -70,7 +70,7 @@
       "description": "",
       "precio_sin_itbis": 415.0,
       "price": 489.7,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -79,7 +79,7 @@
       "description": "",
       "precio_sin_itbis": 450.0,
       "price": 531.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -88,7 +88,7 @@
       "description": "",
       "precio_sin_itbis": 340.0,
       "price": 401.2,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -97,7 +97,7 @@
       "description": "",
       "precio_sin_itbis": 250.0,
       "price": 295.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Cocteles",
@@ -106,7 +106,7 @@
       "description": "",
       "precio_sin_itbis": 325.0,
       "price": 383.5,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alcohol",
@@ -115,7 +115,7 @@
       "description": "",
       "precio_sin_itbis": 250.0,
       "price": 295.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Otras bebidas",
@@ -124,7 +124,7 @@
       "description": "",
       "precio_sin_itbis": 100.0,
       "price": 118.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alcohol",
@@ -133,7 +133,7 @@
       "description": "",
       "precio_sin_itbis": 150.0,
       "price": 177.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alcohol",
@@ -142,7 +142,7 @@
       "description": "",
       "precio_sin_itbis": 150.0,
       "price": 177.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alcohol",
@@ -151,7 +151,7 @@
       "description": "",
       "precio_sin_itbis": 190.0,
       "price": 224.2,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -160,7 +160,7 @@
       "description": "",
       "precio_sin_itbis": 210.0,
       "price": 247.8,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -169,7 +169,7 @@
       "description": "",
       "precio_sin_itbis": 260.0,
       "price": 306.8,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -178,7 +178,7 @@
       "description": "",
       "precio_sin_itbis": 240.0,
       "price": 283.2,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -187,7 +187,7 @@
       "description": "",
       "precio_sin_itbis": 255.0,
       "price": 300.9,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -196,7 +196,7 @@
       "description": "",
       "precio_sin_itbis": 255.0,
       "price": 300.9,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -205,7 +205,7 @@
       "description": "",
       "precio_sin_itbis": 235.0,
       "price": 277.3,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -214,7 +214,7 @@
       "description": "",
       "precio_sin_itbis": 235.0,
       "price": 277.3,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Postres",
@@ -223,7 +223,7 @@
       "description": "",
       "precio_sin_itbis": 145.0,
       "price": 171.1,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -232,7 +232,7 @@
       "description": "",
       "precio_sin_itbis": 185.0,
       "price": 218.3,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Jugos",
@@ -241,7 +241,7 @@
       "description": "",
       "precio_sin_itbis": 125.0,
       "price": 147.5,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Jugos",
@@ -250,7 +250,7 @@
       "description": "",
       "precio_sin_itbis": 85.0,
       "price": 100.3,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -259,7 +259,7 @@
       "description": "",
       "precio_sin_itbis": 65.0,
       "price": 76.7,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -268,7 +268,7 @@
       "description": "",
       "precio_sin_itbis": 75.0,
       "price": 88.5,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -277,7 +277,7 @@
       "description": "",
       "precio_sin_itbis": 130.0,
       "price": 153.4,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -286,7 +286,7 @@
       "description": "",
       "precio_sin_itbis": 150.0,
       "price": 177.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Café",
@@ -295,7 +295,7 @@
       "description": "",
       "precio_sin_itbis": 110.0,
       "price": 129.8,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Otras bebidas",
@@ -304,7 +304,7 @@
       "description": "",
       "precio_sin_itbis": 45.0,
       "price": 53.1,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Burger",
@@ -313,7 +313,7 @@
       "description": "",
       "precio_sin_itbis": 450.0,
       "price": 531.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Burger",
@@ -322,7 +322,7 @@
       "description": "",
       "precio_sin_itbis": 400.0,
       "price": 472.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Burger",
@@ -331,7 +331,7 @@
       "description": "",
       "precio_sin_itbis": 550.0,
       "price": 649.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alitas",
@@ -340,7 +340,7 @@
       "description": "",
       "precio_sin_itbis": 460.0,
       "price": 542.8,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Alitas",
@@ -349,7 +349,7 @@
       "description": "",
       "precio_sin_itbis": 600.0,
       "price": 708.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Ansuz-Otros",
@@ -358,7 +358,7 @@
       "description": "",
       "precio_sin_itbis": 300.0,
       "price": 354.0,
-      "display": "True"
+      "display": true
     },
     {
       "section": "Burger",
@@ -367,7 +367,7 @@
       "description": "",
       "precio_sin_itbis": 0.0,
       "price": 0.0,
-      "display": "False"
+      "display": true
     }
   ]
 }
