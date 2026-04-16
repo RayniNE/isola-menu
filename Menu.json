@@ -1,356 +1,373 @@
 {
-  "sections": ["Alcohol", "Café", "Postres", "Jugos", "Burger"],
   "items": [
-    {
-      "section": "Cocteles",
-      "name": "Long Island Iced Tea",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 377.2,
-      "price": 460.0,
-      "display": true
-    },
     {
       "section": "Cocteles",
       "name": "Tequila Sunrise",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 237.8,
-      "price": 290.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 390.0,
+      "price": 460.2,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Sea Breeze",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 389.5,
-      "price": 475.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 390.0,
+      "price": 460.2,
+      "display": "True"
+    },
+    {
+      "section": "Cocteles",
+      "name": "Long Island Iced Tea",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 400.0,
+      "price": 472.0,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "John Collins",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 319.8,
-      "price": 390.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 330.0,
+      "price": 389.4,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "El Padrino",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 196.8,
-      "price": 240.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 250.0,
+      "price": 295.0,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Gin Fizz",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 303.4,
-      "price": 370.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 315.0,
+      "price": 371.7,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Cuba Libre",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 401.8,
-      "price": 490.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 200.0,
+      "price": 236.0,
+      "display": "True"
+    },
+    {
+      "section": "Cocteles",
+      "name": "Cosmopolitan",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 415.0,
+      "price": 489.7,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Aperol Spritz",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 444.44,
-      "price": 542.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 450.0,
+      "price": 531.0,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Margarita",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 332.1,
-      "price": 405.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 340.0,
+      "price": 401.2,
+      "display": "True"
     },
     {
       "section": "Cocteles",
       "name": "Daiquiri",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 246.0,
-      "price": 300.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 250.0,
+      "price": 295.0,
+      "display": "True"
     },
     {
       "section": "Cocteles",
-      "name": "Pina Colada",
+      "name": "Piña Colada",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 315.7,
-      "price": 385.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 325.0,
+      "price": 383.5,
+      "display": "True"
     },
     {
       "section": "Alcohol",
-      "name": "Presidente Pilsener",
+      "name": "Doble Reserva",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 143.5,
-      "price": 175.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 250.0,
+      "price": 295.0,
+      "display": "True"
+    },
+    {
+      "section": "Otras bebidas",
+      "name": "Coca-Cola 20oz",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 100.0,
+      "price": 118.0,
+      "display": "True"
     },
     {
       "section": "Alcohol",
-      "name": "Presidente Light",
+      "name": "Cerveza Pte. Peq. Light",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 143.5,
-      "price": 175.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 150.0,
+      "price": 177.0,
+      "display": "True"
     },
     {
-      "section": "Café",
-      "name": "Capuccino (Caramelo)",
+      "section": "Alcohol",
+      "name": "Cerveza Pte. Peq. Pilsener",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 0.0,
-      "price": null,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 150.0,
+      "price": 177.0,
+      "display": "True"
     },
     {
-      "section": "Café",
-      "name": "Capuccino (Vainilla)",
+      "section": "Alcohol",
+      "name": "Cerveza Corona Peq.",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 0.0,
-      "price": null,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Capuccino (Canela)",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 0.0,
-      "price": null,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Capuccino",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 123.0,
-      "price": 150.0,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Café Tradicional",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 61.5,
-      "price": 75.0,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Expresso",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 69.7,
-      "price": 85.0,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Latte",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 143.5,
-      "price": 175.0,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Café con leche",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 106.6,
-      "price": 130.0,
-      "display": true
-    },
-    {
-      "section": "Café",
-      "name": "Café de greca",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 69.7,
-      "price": 85.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 190.0,
+      "price": 224.2,
+      "display": "True"
     },
     {
       "section": "Postres",
-      "name": "La Rose",
+      "name": "La Rosé Mousse de Chocolate",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 205.0,
-      "price": 250.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 210.0,
+      "price": 247.8,
+      "display": "True"
     },
     {
       "section": "Postres",
       "name": "Mousse de Chinola",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 254.2,
-      "price": 310.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 260.0,
+      "price": 306.8,
+      "display": "True"
     },
     {
       "section": "Postres",
-      "name": "New York Cheesecake",
+      "name": "Cheese Cake",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 229.6,
-      "price": 280.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 240.0,
+      "price": 283.2,
+      "display": "True"
     },
     {
       "section": "Postres",
       "name": "Flan Tradicional",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 246.0,
-      "price": 300.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 255.0,
+      "price": 300.9,
+      "display": "True"
     },
     {
       "section": "Postres",
-      "name": "Flan Dulce de leche",
+      "name": "Flan Dulce de Leche",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 246.0,
-      "price": 300.0,
-      "display": true
-    },
-    {
-      "section": "Postres",
-      "name": "Isola's Special",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 205.0,
-      "price": 250.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 255.0,
+      "price": 300.9,
+      "display": "True"
     },
     {
       "section": "Postres",
       "name": "Carrot Cake",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 164.0,
-      "price": 200.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 235.0,
+      "price": 277.3,
+      "display": "True"
     },
     {
       "section": "Postres",
-      "name": "Red Velvet",
+      "name": "Red Velvet Cake",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 164.0,
-      "price": 200.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 235.0,
+      "price": 277.3,
+      "display": "True"
     },
     {
       "section": "Postres",
-      "name": "Chocolate Cake",
+      "name": "Choco Cake",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 139.4,
-      "price": 170.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 145.0,
+      "price": 171.1,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Isola's Special",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 185.0,
+      "price": 218.3,
+      "display": "True"
     },
     {
       "section": "Jugos",
-      "name": "Jugo de Chinola",
+      "name": "Jugo Natural Chinola",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 123.0,
-      "price": 150.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 125.0,
+      "price": 147.5,
+      "display": "True"
     },
     {
       "section": "Jugos",
-      "name": "Jugo de Limon",
+      "name": "Jugo Natural Limón",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 82.0,
-      "price": 100.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 85.0,
+      "price": 100.3,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Café Tradicional",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 65.0,
+      "price": 76.7,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Café Expresso",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 75.0,
+      "price": 88.5,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Capuccino",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 130.0,
+      "price": 153.4,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Café Latte",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 150.0,
+      "price": 177.0,
+      "display": "True"
+    },
+    {
+      "section": "Café",
+      "name": "Café con Leche",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 110.0,
+      "price": 129.8,
+      "display": "True"
+    },
+    {
+      "section": "Otras bebidas",
+      "name": "Agua Dasani",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 45.0,
+      "price": 53.1,
+      "display": "True"
     },
     {
       "section": "Burger",
-      "name": "Drakar",
+      "name": "La Drakkar",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 438.7,
-      "price": 535.0,
-      "display": true
-    },
-    {
-      "section": "Burger",
-      "name": "Sandwich de Picanha",
-      "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 647.8,
-      "price": 790.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 450.0,
+      "price": 531.0,
+      "display": "True"
     },
     {
       "section": "Burger",
       "name": "La Ragnar",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 389.5,
-      "price": 475.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 400.0,
+      "price": 472.0,
+      "display": "True"
     },
     {
       "section": "Burger",
       "name": "La Ragnarok",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 533.0,
-      "price": 650.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 550.0,
+      "price": 649.0,
+      "display": "True"
     },
     {
       "section": "Alitas",
-      "name": "Alitas BBQ (8)",
+      "name": "Alitas 8 Piezas",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 446.9,
-      "price": 545.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 460.0,
+      "price": 542.8,
+      "display": "True"
     },
     {
       "section": "Alitas",
-      "name": "Alitas BBQ (12)",
+      "name": "Alitas 12 Piezas",
       "subtext": "",
-      "description": null,
-      "precio_sin_itbis": 582.2,
-      "price": 710.0,
-      "display": true
+      "description": "",
+      "precio_sin_itbis": 600.0,
+      "price": 708.0,
+      "display": "True"
+    },
+    {
+      "section": "Pollo",
+      "name": "Chicken Tender 8",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 300.0,
+      "price": 354.0,
+      "display": "True"
+    },
+    {
+      "section": "Ansuz",
+      "name": "Sandwich de Picanha",
+      "subtext": "",
+      "description": "",
+      "precio_sin_itbis": 0.0,
+      "price": 0.0,
+      "display": "False"
     }
   ]
 }
