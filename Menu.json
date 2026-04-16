@@ -367,7 +367,7 @@
       "description": "",
       "precio_sin_itbis": 0.0,
       "price": 0.0,
-      "display": true
+      "display": false
     }
   ]
 }
